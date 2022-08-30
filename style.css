@@ -1,0 +1,101 @@
+* {
+	box-sizing: border-box;
+	margin:0;
+	padding: 0;
+}
+html{
+	scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+ .parent{
+  padding-left: 300px;
+  font: 16px Roboto, sans-serif;
+  font-weight: bold;
+  color: white;
+ }
+ .firstimg{
+ 	padding-left: 150px;
+ }
+ .child{
+ 	background-image: linear-gradient(to right, rgba(60, 8, 118, 0.8), rgba(250, 0, 118, 0.8));
+ }
+ .one{
+ 	background-image: linear-gradient(to right, purple, hotpink);
+ 	color: white;
+ }
+ .onene{
+ 	font: 60px sans-serif;
+ }
+ .oneone{
+ 	font: 23px sans-serif;
+ 	text-align: center;
+ 	margin: 0px 155px ;
+ }
+ .fish{
+ 	padding: 50px;
+ 	align-content: center;
+ }
+.work{
+	padding-left: -200px;
+    text-align: center;
+}
+.wor{
+	padding-left: -200px;
+    text-align: center;
+    color: purple;
+}
+ .text{
+  padding-left: 200px;
+ }
+ .ice{
+ 	 border-left: 6px solid purple;
+ 	 border-radius: 5px;
+ 	 background-color: white;
+ 	 margin-bottom: 40px;
+ 	 width: 30%;
+ }
+ #ice{
+ 	margin-left: 10%;
+ 	justify-content: space-between; 
+ 	padding-right: 40px;
+ }
+ .not{
+ 	color: purple;
+ }
+ .per{
+ 	padding-left: 700px;
+ 	padding-top: 50px;
+ }
+ .pere{
+ 	color: purple;
+ 	font-weight: bolder;
+ }
+.dualphone{
+	padding-top: -290px;
+}
+.vein{
+	font-size: 1.25rem;
+	font-weight: 300px;
+}
+.first{
+  display: flex;
+  flex-wrap: wrap-reverse;
+  justify-content: space-around;
+}
+.leftcolumn{
+   width: 70%;
+  padding-top: 50px;  
+  align-items: flex-start;
+   flex-basis: 70%;
+}
+.rightcolumn{
+  align-items: center;
+  width: 40%; 
+  padding: 20px;
+  flex-basis: 40%;
+}
+.atm{
+	padding-bottom: 50px;
+	padding-left: 50px;
+}
+

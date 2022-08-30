@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+.one{
+    background-image: linear-gradient(to right, #52117b,#df0c7b);
+}
+.two{
+    background-image: linear-gradient(to right, #52117b,#df0c7b);   
+}
+#one1:hover{
+    font-size: 20px;
+
+}
+.center{
+    text-align: center;
+    
+}
+.big{
+    font-size: 40px;
+    
+}
+.small{
+    font-size: 20px;
+    
+
+}
